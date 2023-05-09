@@ -1,2 +1,2 @@
-# Ores Arise
-WIP Minecraft Fabric Mod
+# Ores Arise!
+WIP Minecraft Mod for Fabric 1.19.2
